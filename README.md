@@ -1,4 +1,4 @@
-# ca2-personal-profile
+# ca2
 
 # Personal Working Profile | Challenge Assignment 1
 
